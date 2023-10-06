@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "title": "learn vuejs",
+      "status": "finished",
+      "description": "learn basics of vuejs",
+      "id": 1
+    },
+    {
+      "title": "task 2",
+      "status": "incomplete",
+      "description": "task 2",
+      "id": 2
+    },
+    {
+      "title": "my app",
+      "status": "finished",
+      "description": "my app",
+      "id": 3
+    },
+    {
+      "title": "my app2",
+      "status": "incomplete",
+      "description": "my app2",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "uday kanda",
+      "email": "uday123@gmail.com",
+      "password": "1235678"
+    }
+  ]
+}
